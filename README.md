@@ -1,5 +1,4 @@
-Shell scipt to download various softwares.
-Currently It downloads:
+Currently it downloads following programs:
 <li>Git</li>
 <li>Sublime-Text-2
 <li>Google Chrome</li>
