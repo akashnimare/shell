@@ -1,8 +1,12 @@
 Currently it downloads following programs:
-<li>Git</li>
-<li>Sublime-Text-2
-<li>Google Chrome</li>
-<li>Python-Pip</li>
-(Tested on ubuntu 14.04)
+```
+Git
+Sublime-Text-2
+Google Chrome
+Python-Pip
+
+```
+
+#Tested on ubuntu 14.04
 
 Feel free to contritubte
