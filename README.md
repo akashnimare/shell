@@ -4,6 +4,9 @@ Git
 Sublime-Text-2
 Google Chrome
 Python-Pip
+Nodejs
+Npm
+Vlc
 
 ```
 
