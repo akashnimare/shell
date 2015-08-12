@@ -5,9 +5,10 @@ Sublime-Text-2
 Google Chrome
 Python-Pip
 Nodejs
-Npm
-Vlc
-
+NPM
+VLC
+XDM
+GIMP
 ```
 
 #Tested on ubuntu 14.04
