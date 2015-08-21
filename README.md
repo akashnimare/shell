@@ -9,6 +9,8 @@ NPM
 VLC
 XDM
 GIMP
+ZSH
+Oh-my-zsh
 ```
 
 #Tested on ubuntu 14.04
