@@ -1,7 +1,7 @@
 Currently it downloads following programs:
 ```
 Git
-Sublime-Text-2
+Sublime-Text-3
 Google Chrome
 Python-Pip
 Nodejs
@@ -11,6 +11,7 @@ XDM
 GIMP
 ZSH
 Oh-my-zsh
+Unity Tweak Tool
 ```
 
 #Tested on ubuntu 14.04
