@@ -2,18 +2,18 @@ Currently it downloads following programs:
 ```
 Git
 Sublime-Text-3
-Google Chrome
 Python-Pip
-Nodejs
-NPM
+Google-chrome
 VLC
 XDM
 GIMP
 ZSH
 Oh-my-zsh
 Unity Tweak Tool
+NVM(for node)
+Nautilus-Terminal-here
 ```
 
-#Tested on ubuntu 14.04
+#Tested on Ubuntu 14.04 64 bit
 
 Feel free to contritubte
