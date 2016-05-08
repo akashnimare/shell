@@ -10,3 +10,7 @@ wget https://download.sublimetext.com/sublime-text_build-3103_amd64.deb
 curl -L http://install.ohmyz.sh | sh 
 chsh -s $(which zsh) #set zsh as default shell
 wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh #this will install oh-my-zsh you need to configure .zshrc
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash #For NVM
+nvm install 5.0 #this will install the latest v5.0.x release of node
+nvm use 5.0
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb #chrome
