@@ -5,11 +5,8 @@ sudo add-apt-repository -y ppa:noobslab/apps
 sudo add-apt-repository -y ppa:otto-kesselgulasch/gimp
 curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
 sudo apt-get update
-sudo apt-get install -y unity-tweak-tool gnome-tweak-tool git python-pip python-dev virtualenv virtualenvwrapper build-essential nodejs vlc xdman gimp zsh git-core
-wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
-wget https://download.sublimetext.com/sublime-text_build-3083_amd64.deb
-chsh -s /usr/bin/zsh
-wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh - See more at: http://whaaat.com/content/update-shell-zsh-osx-unix#sthash.ORQx1Qb2.dpuf
-export WORKON_HOME=~/Envs
-source /usr/local/bin/virtualenvwrapper.sh
-
+sudo apt-get install -y unity-tweak-tool gnome-tweak-tool git python-pip python-dev nautilus-open-terminal build-essential vlc xdman gimp git-core zsh
+wget https://download.sublimetext.com/sublime-text_build-3103_amd64.deb
+curl -L http://install.ohmyz.sh | sh 
+chsh -s $(which zsh) #set zsh as default shell
+wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh #this will install oh-my-zsh you need to configure .zshrc
